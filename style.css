@@ -458,6 +458,7 @@ section.about{
     nav{
         position: fixed;
         background: linear-gradient(0deg,#ffffff00,#191c22);
+        top: 0px;
     }
     nav .container{
         padding:10px;
